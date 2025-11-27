@@ -29,16 +29,3 @@ From raw Parquet to production-style insights – all in one notebook.
   - https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet
   - https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv
 
-### Run It Yourself
-1. Open in [Google Colab](https://colab.research.google.com/github/your-username/nyc-taxi-spark-lab/blob/main/NYC_Taxi_Spark_Lab.ipynb)
-2. Run all cells – works 100% as of November 2025
-
-### Why Spark Wins
-> “Same Pandas-style code. Zero crashes. 10× faster with caching.”  
-> This lab turned me from a Spark skeptic into a believer.
-
-**Lab 7 – 10/10 ready to submit**
-
----
-Made with frustration (Colab crashes) and victory (Spark actually works)  
-[Your Name] – November 2025
